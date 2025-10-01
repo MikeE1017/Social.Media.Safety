@@ -57,3 +57,9 @@ img {
 .flex-container .content-box {
     flex: 1;
 }
+
+@media (max-width: 600px) {
+    body {
+        font: 16px;
+    }
+}
