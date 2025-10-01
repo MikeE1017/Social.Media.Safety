@@ -14,7 +14,7 @@ li {
 }
 
 body {
-    background-color: beige;
+    background-color: green;
 }
 
 * {
@@ -40,7 +40,7 @@ img {
 
 /* Unique styles */
 #tips {
-    border-left: 5px solid teal;
+    border-left: 5px solid navy;
 }
 
 #post-warning {
