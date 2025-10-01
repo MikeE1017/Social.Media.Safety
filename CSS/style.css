@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(236, 61, 13);
+    background-color: crimson;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@ li {
 }
 
 body {
-    background-color: rgb(238, 122, 221);
+    background-color: beige;
 }
 
 * {
@@ -45,4 +45,15 @@ img {
 
 #post-warning {
     border-left: 5px solid crimson;
+}
+
+.flex-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 20px;
+}
+
+.flex-container .content-box {
+    flex: 1;
 }
