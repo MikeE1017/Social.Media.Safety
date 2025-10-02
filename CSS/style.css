@@ -3,13 +3,26 @@ header {
     text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6, p, a {
+h1 {
+    font-size: 60px;
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 45px;
+    text-align: center;
+}
+
+h3, h4, h5, h6, p, a {
     font-size: 30px;
     text-align: center;
 }
 
+
+
 li {
-    font-size: 30px;
+    font-size: 20px;
     text-align: left;
 }
 
@@ -22,7 +35,7 @@ body {
 }
 
 img {
-    width: 50%;
+    width: 75%;
     border-radius: 8px;
     display: block;
     margin: auto;
