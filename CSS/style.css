@@ -59,7 +59,16 @@ img {
 }
 
 @media (max-width: 600px) {
-    body {
-        font: 16px;
-    }
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+  .flex-container {
+    flex-direction: column;
+    gap: 10px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
