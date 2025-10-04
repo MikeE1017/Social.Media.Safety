@@ -85,3 +85,10 @@ img {
     height: auto;
   }
 }
+
+<main class="container my-4">
+  <section class="mb-5">
+    <h2 class="text-primary">Tips for Staying Safe</h2>
+    <p>Use strong and unique passwords…</p>
+  </section>
+</main>
